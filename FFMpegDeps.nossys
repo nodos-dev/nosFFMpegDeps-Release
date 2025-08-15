@@ -1,0 +1,16 @@
+{
+  "additional_search_paths": [
+    "./n7.1/lib",
+    "./n7.1/bin"
+  ],
+  "info": {
+    "dependencies": [],
+    "description": "FFMpeg dependencies",
+    "display_name": "FFMpeg Dependencies",
+    "id": {
+      "name": "nos.sys.ffmpeg.deps",
+      "version": "7.1.0"
+    }
+  },
+  "nos_plugin_include_folder": "./n7.1/include"
+}
